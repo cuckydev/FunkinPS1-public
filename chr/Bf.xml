@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chr sheet="../assets/chr/BOYFRIEND.xml" compress="0" highbpp="1" dither="0" semi="0" singleclut="1" scale="0.25">
+	<!-- Idle -->
+	<frame source="BF idle dance0000" flip="0" ax="214" ay="370" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF idle dance0002" flip="0" ax="214" ay="370" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF idle dance0004" flip="0" ax="214" ay="370" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF idle dance0006" flip="0" ax="214" ay="370" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF idle dance0008" flip="0" ax="214" ay="370" tx="320" ty="0" cx="0" cy="480"/>
+
+	<anim>
+		<frame source="BF idle dance0000" length="2"/>
+		<frame source="BF idle dance0002" length="2"/>
+		<frame source="BF idle dance0004" length="2"/>
+		<frame source="BF idle dance0006" length="2"/>
+		<frame source="BF idle dance0008" length="2"/>
+		<end/>
+	</anim>
+
+	<!-- SingLeft -->
+	<frame source="BF NOTE LEFT0000" flip="0" ax="230" ay="363" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF NOTE LEFT0002" flip="0" ax="230" ay="363" tx="320" ty="0" cx="0" cy="480"/>
+
+	<anim>
+		<frame source="BF NOTE LEFT0000" length="2"/>
+		<frame source="BF NOTE LEFT0002" length="2"/>
+		<end/>
+	</anim>
+
+	<!-- SingDown -->
+	<frame source="BF NOTE DOWN0000" flip="0" ax="192" ay="316" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF NOTE DOWN0002" flip="0" ax="192" ay="316" tx="320" ty="0" cx="0" cy="480"/>
+
+	<anim>
+		<frame source="BF NOTE DOWN0000" length="2"/>
+		<frame source="BF NOTE DOWN0002" length="2"/>
+		<end/>
+	</anim>
+
+	<!-- SingUp -->
+	<frame source="BF NOTE UP0000" flip="0" ax="173" ay="394" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF NOTE UP0002" flip="0" ax="173" ay="394" tx="320" ty="0" cx="0" cy="480"/>
+
+	<anim>
+		<frame source="BF NOTE UP0000" length="2"/>
+		<frame source="BF NOTE UP0002" length="2"/>
+		<end/>
+	</anim>
+
+	<!-- SingRight -->
+	<frame source="BF NOTE RIGHT0000" flip="0" ax="160" ay="363" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF NOTE RIGHT0002" flip="0" ax="160" ay="363" tx="320" ty="0" cx="0" cy="480"/>
+
+	<anim>
+		<frame source="BF NOTE RIGHT0000" length="2"/>
+		<frame source="BF NOTE RIGHT0002" length="2"/>
+		<end/>
+	</anim>
+
+	<!-- MissLeft -->
+	<frame source="BF NOTE LEFT MISS0001" flip="0" ax="226" ay="390" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF NOTE LEFT MISS0003" flip="0" ax="226" ay="390" tx="320" ty="0" cx="0" cy="480"/>
+
+	<anim>
+		<frame source="BF NOTE LEFT0000" length="1"/>
+		<frame source="BF NOTE LEFT MISS0001" length="2"/>
+		<frame source="BF NOTE LEFT MISS0003" length="2"/>
+		<end/>
+	</anim>
+
+	<!-- MissDown -->
+	<frame source="BF NOTE DOWN MISS0001" flip="0" ax="194" ay="344" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF NOTE DOWN MISS0003" flip="0" ax="194" ay="344" tx="320" ty="0" cx="0" cy="480"/>
+
+	<anim>
+		<frame source="BF NOTE DOWN0000" length="1"/>
+		<frame source="BF NOTE DOWN MISS0001" length="2"/>
+		<frame source="BF NOTE DOWN MISS0003" length="2"/>
+		<end/>
+	</anim>
+
+	<!-- MissUp -->
+	<frame source="BF NOTE UP MISS0001" flip="0" ax="178" ay="394" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF NOTE UP MISS0003" flip="0" ax="178" ay="394" tx="320" ty="0" cx="0" cy="480"/>
+
+	<anim>
+		<frame source="BF NOTE UP0000" length="1"/>
+		<frame source="BF NOTE UP MISS0001" length="2"/>
+		<frame source="BF NOTE UP MISS0003" length="2"/>
+		<end/>
+	</anim>
+
+	<!-- MissRight -->
+	<frame source="BF NOTE RIGHT MISS0001" flip="0" ax="169" ay="393" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF NOTE RIGHT MISS0003" flip="0" ax="169" ay="393" tx="320" ty="0" cx="0" cy="480"/>
+
+	<anim>
+		<frame source="BF NOTE RIGHT0000" length="1"/>
+		<frame source="BF NOTE RIGHT MISS0001" length="2"/>
+		<frame source="BF NOTE RIGHT MISS0003" length="2"/>
+		<end/>
+	</anim>
+
+	<!-- Hey!! -->
+	<frame source="BF HEY!!0000" flip="0" ax="216" ay="372" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF HEY!!0002" flip="0" ax="216" ay="372" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="BF HEY!!0004" flip="0" ax="216" ay="372" tx="320" ty="0" cx="0" cy="480"/>
+
+	<anim>
+		<frame source="BF HEY!!0000" length="2"/>
+		<frame source="BF HEY!!0002" length="2"/>
+		<frame source="BF HEY!!0004" length="2"/>
+		<end/>
+	</anim>
+</chr>

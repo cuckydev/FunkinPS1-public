@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menuDesat.png">
+	<SubTexture name="menuDesat" x="0" y="0" width="320" height="256"/>
+</TextureAtlas>

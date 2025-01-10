@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iso_project image_name="${CD_BIN}" cue_sheet="${CD_CUE}">
+	<track type="data">
+		<identifiers
+			system = "FUNKIN"
+			application = "FUNKIN"
+			volume = "FUNKIN"
+			data_preparer = ""
+			copyright = "FUNKIN CREW"
+		/>
+		<license file="${ISO_DIR}/LICENSEA.DAT"/>
+
+		<directory_tree>
+			<file name="SYSTEM.CNF" type="data" source="SYSTEM.CNF"/>
+			<file name="${CD_EXE}" type="data" source="${TARGET_EXE}"/>
+			<file name="ALL" type="data" source="${ALL_CDP}"/>
+
+			<dummy sectors="1024"/>
+
+			<file name="0_1.DA" trackid="02" type="da"/>
+			<file name="0_2.DA" trackid="03" type="da"/>
+			<file name="1_0.DA" trackid="04" type="da"/>
+			<file name="1_1.DA" trackid="05" type="da"/>
+			<file name="1_2.DA" trackid="06" type="da"/>
+			<file name="1_3.DA" trackid="07" type="da"/>
+		</directory_tree>
+	</track>
+
+	<track type="audio" trackid="02" source="${ISO_DIR}/wav/Freaky.wav"/>
+	<track type="audio" trackid="03" source="${ISO_DIR}/wav/GameOver.wav"/>
+	<track type="audio" trackid="04" source="${ISO_DIR}/wav/Tutorial.wav"/>
+	<track type="audio" trackid="05" source="${ISO_DIR}/wav/Guns.wav"/>
+	<track type="audio" trackid="06" source="${ISO_DIR}/wav/Fresh.wav"/>
+	<track type="audio" trackid="07" source="${ISO_DIR}/wav/DadBattle.wav"/>
+</iso_project>

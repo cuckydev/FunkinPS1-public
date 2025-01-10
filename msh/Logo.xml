@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chr sheet="../assets/msh/logoBumpin.xml" compress="1" highbpp="1" dither="0" semi="0" singleclut="0" scale="0.25">
+	<frame source="logo bumpin0000" flip="0" ax="444" ay="333" tx="320" ty="256" cx="0" cy="511"/>
+</chr>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stageback.png">
+	<!-- Created by hand because I cant find the fla file :( -->
+	<!-- Anyways lets split the background into a few parts, don't want this taking up the entirety of VRAM -->
+	<SubTexture name="stageback1" x="289" y="349" width="596" height="502"/>
+	<SubTexture name="stageback2" x="1513" y="211" width="656" height="572"/>
+</TextureAtlas>

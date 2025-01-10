@@ -1,0 +1,13 @@
+funkin
+
+# Ignore IDE files
+.vs/
+.vscode/
+
+# Ignore compiled files
+build/
+out/
+iso/
+
+# Ignore assets
+art/

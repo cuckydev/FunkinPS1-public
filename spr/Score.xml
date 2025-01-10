@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spr sheet="../assets/spr/score.xml" compress="1" highbpp="0" dither="0" semi="0" singleclut="1" scale="1">
+	<frame source="0" flip="0" ax="0" ay="0" tx="960" ty="502" cx="0" cy="502"/>
+	<frame source="1" flip="0" ax="0" ay="0" tx="960" ty="492" cx="0" cy="502"/>
+	<frame source="2" flip="0" ax="0" ay="0" tx="960" ty="482" cx="0" cy="502"/>
+	<frame source="3" flip="0" ax="0" ay="0" tx="960" ty="472" cx="0" cy="502"/>
+	<frame source="4" flip="0" ax="0" ay="0" tx="960" ty="462" cx="0" cy="502"/>
+	<frame source="5" flip="0" ax="0" ay="0" tx="960" ty="452" cx="0" cy="502"/>
+	<frame source="6" flip="0" ax="0" ay="0" tx="963" ty="452" cx="0" cy="502"/>
+	<frame source="7" flip="0" ax="0" ay="0" tx="966" ty="452" cx="0" cy="502"/>
+	<frame source="8" flip="0" ax="0" ay="0" tx="969" ty="452" cx="0" cy="502"/>
+	<frame source="9" flip="0" ax="0" ay="0" tx="972" ty="452" cx="0" cy="502"/>
+	<frame source="-" flip="0" ax="0" ay="0" tx="975" ty="452" cx="0" cy="502"/>
+	<frame source="score" flip="0" ax="0" ay="0" tx="978" ty="452" cx="0" cy="502"/>
+</spr>

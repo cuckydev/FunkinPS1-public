@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spr sheet="../assets/spr/bold.xml" compress="1" highbpp="0" dither="0" semi="0" singleclut="1" scale="0.28">
+	<frame source=""/>
+	<frame source="A0000" flip="0" ay="0" tx="448" ty="256" cx="16" cy="506"/>
+	<frame source="B0000" flip="0" ay="0" tx="454" ty="256" cx="16" cy="506"/>
+	<frame source="C0000" flip="0" ay="0" tx="460" ty="256" cx="16" cy="506"/>
+	<frame source="D0000" flip="0" ay="0" tx="466" ty="256" cx="16" cy="506"/>
+	<frame source="E0000" flip="0" ay="0" tx="472" ty="256" cx="16" cy="506"/>
+	<frame source="F0000" flip="0" ay="0" tx="477" ty="256" cx="16" cy="506"/>
+	<frame source="G0000" flip="0" ay="0" tx="482" ty="256" cx="16" cy="506"/>
+	<frame source="H0000" flip="0" ay="0" tx="488" ty="256" cx="16" cy="506"/>
+	<frame source="I0000" flip="0" ay="0" tx="493" ty="256" cx="16" cy="506"/>
+	<frame source="J0000" flip="0" ay="0" tx="498" ty="256" cx="16" cy="506"/>
+	<frame source="K0000" flip="0" ay="0" tx="504" ty="256" cx="16" cy="506"/>
+	<frame source="L0000" flip="0" ay="0" tx="448" ty="281" cx="16" cy="506"/>
+	<frame source="M0000" flip="0" ay="0" tx="453" ty="282" cx="16" cy="506"/>
+	<frame source="N0000" flip="0" ay="0" tx="459" ty="282" cx="16" cy="506"/>
+	<frame source="O0000" flip="0" ay="0" tx="464" ty="281" cx="16" cy="506"/>
+	<frame source="P0000" flip="0" ay="0" tx="470" ty="281" cx="16" cy="506"/>
+	<frame source="Q0000" flip="0" ay="0" tx="476" ty="281" cx="16" cy="506"/>
+	<frame source="R0000" flip="0" ay="0" tx="482" ty="282" cx="16" cy="506"/>
+	<frame source="S0000" flip="0" ay="0" tx="488" ty="281" cx="16" cy="506"/>
+	<frame source="T0000" flip="0" ay="0" tx="494" ty="282" cx="16" cy="506"/>
+	<frame source="U0000" flip="0" ay="0" tx="499" ty="282" cx="16" cy="506"/>
+	<frame source="V0000" flip="0" ay="0" tx="504" ty="282" cx="16" cy="506"/>
+	<frame source="W0000" flip="0" ay="0" tx="448" ty="306" cx="16" cy="506"/>
+	<frame source="X0000" flip="0" ay="0" tx="455" ty="306" cx="16" cy="506"/>
+	<frame source="Y0000" flip="0" ay="0" tx="461" ty="307" cx="16" cy="506"/>
+	<frame source="Z0000" flip="0" ay="0" tx="467" ty="307" cx="16" cy="506"/>
+</spr>

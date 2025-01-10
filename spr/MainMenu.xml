@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spr sheet="../assets/spr/main_menu.xml" compress="1" highbpp="0" dither="0" semi="0" singleclut="1" scale="0.25">
+	<!-- Story Mode -->
+	<frame source="story mode idle0000" tx="320" ty="167" cx="0" cy="510"/>
+	<frame source="story mode idle0003" tx="320" ty="199" cx="0" cy="510"/>
+	<frame source="story mode idle0006" tx="360" ty="167" cx="0" cy="510"/>
+	<frame source="story mode selected0000" tx="360" ty="199" cx="0" cy="510"/>
+	<frame source="story mode selected0001" tx="412" ty="0" cx="0" cy="510"/>
+	<frame source="story mode selected0002" tx="412" ty="45" cx="0" cy="510"/>
+
+	<anim>
+		<frame source="story mode idle0000" length="3"/>
+		<frame source="story mode idle0003" length="3"/>
+		<frame source="story mode idle0006" length="3"/>
+		<back length="3"/>
+	</anim>
+	<anim>
+		<frame source="story mode selected0000" length="1"/>
+		<frame source="story mode selected0001" length="1"/>
+		<frame source="story mode selected0002" length="1"/>
+		<back length="3"/>
+	</anim>
+	
+	<!-- Freeplay -->
+	<frame source="freeplay idle 0000" tx="452" ty="130" cx="0" cy="510"/>
+	<frame source="freeplay idle 0003" tx="454" ty="194" cx="0" cy="510"/>
+	<frame source="freeplay idle 0006" tx="453" ty="162" cx="0" cy="510"/>
+	<frame source="freeplay selected 0000" tx="412" ty="175" cx="0" cy="510"/>
+	<frame source="freeplay selected 0001" tx="463" ty="0" cx="0" cy="510"/>
+	<frame source="freeplay selected 0002" tx="463" ty="44" cx="0" cy="510"/>
+
+	<anim>
+		<frame source="freeplay idle 0000" length="3"/>
+		<frame source="freeplay idle 0003" length="3"/>
+		<frame source="freeplay idle 0006" length="3"/>
+		<back length="3"/>
+	</anim>
+	<anim>
+		<frame source="freeplay selected 0000" length="1"/>
+		<frame source="freeplay selected 0001" length="1"/>
+		<frame source="freeplay selected 0002" length="1"/>
+		<back length="3"/>
+	</anim>
+
+	<!-- Options -->
+	<frame source="options idle0000" tx="475" ty="226" cx="0" cy="510"/>
+	<frame source="options idle0003" tx="411" ty="219" cx="0" cy="510"/>
+	<frame source="options idle0006" tx="443" ty="226" cx="0" cy="510"/>
+	<frame source="options selected 0000" tx="412" ty="92" cx="0" cy="510"/>
+	<frame source="options selected 0001" tx="463" ty="89" cx="0" cy="510"/>
+	<frame source="options selected 0002" tx="412" ty="133" cx="0" cy="510"/>
+
+	<anim>
+		<frame source="options idle0000" length="3"/>
+		<frame source="options idle0003" length="3"/>
+		<frame source="options idle0006" length="3"/>
+		<back length="3"/>
+	</anim>
+	<anim>
+		<frame source="options selected 0000" length="1"/>
+		<frame source="options selected 0001" length="1"/>
+		<frame source="options selected 0002" length="1"/>
+		<back length="3"/>
+	</anim>
+</spr>

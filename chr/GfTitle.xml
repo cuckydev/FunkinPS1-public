@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chr sheet="../assets/chr/gfDanceTitle.xml" compress="0" highbpp="1" dither="0" semi="0" singleclut="1" scale="0.25">
+	<!-- DanceLeft [0 - 9] -->
+	<frame source="gfDance0000" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0001" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0002" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0003" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0004" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0005" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0006" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0007" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0010" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0013" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+
+	<anim>
+		<frame source="gfDance0000" length="1"/>
+		<frame source="gfDance0001" length="1"/>
+		<frame source="gfDance0002" length="1"/>
+		<frame source="gfDance0003" length="1"/>
+		<frame source="gfDance0004" length="1"/>
+		<frame source="gfDance0005" length="1"/>
+		<frame source="gfDance0006" length="1"/>
+		<frame source="gfDance0007" length="3"/>
+		<frame source="gfDance0010" length="3"/>
+		<frame source="gfDance0013" length="3"/>
+		<end/>
+	</anim>
+	
+	<!-- DanceRight [10 - 19] -->
+	<frame source="gfDance0015" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0016" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0017" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0018" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0019" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0020" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0021" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0022" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0025" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+	<frame source="gfDance0028" flip="0" ax="372" ay="660" tx="320" ty="0" cx="0" cy="480"/>
+
+	<anim>
+		<frame source="gfDance0015" length="1"/>
+		<frame source="gfDance0016" length="1"/>
+		<frame source="gfDance0017" length="1"/>
+		<frame source="gfDance0018" length="1"/>
+		<frame source="gfDance0019" length="1"/>
+		<frame source="gfDance0020" length="1"/>
+		<frame source="gfDance0021" length="1"/>
+		<frame source="gfDance0022" length="3"/>
+		<frame source="gfDance0025" length="3"/>
+		<frame source="gfDance0028" length="3"/>
+		<end/>
+	</anim>
+</chr>

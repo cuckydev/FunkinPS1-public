@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chr sheet="../assets/chr/Pico_FNF_assetss.xml" compress="0" highbpp="1" dither="0" semi="0" singleclut="1" scale="0.25">
+	<!-- Idle -->
+	<frame source="Pico Idle Dance0000" flip="1" ax="200" ay="422" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Pico Idle Dance0002" flip="1" ax="200" ay="422" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Pico Idle Dance0004" flip="1" ax="200" ay="422" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Pico Idle Dance0005" flip="1" ax="200" ay="422" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Pico Idle Dance0006" flip="1" ax="200" ay="422" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Pico Idle Dance0007" flip="1" ax="200" ay="422" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Pico Idle Dance0008" flip="1" ax="200" ay="422" tx="320" ty="256" cx="0" cy="481"/>
+
+	<anim>
+		<frame source="Pico Idle Dance0000" length="2"/>
+		<frame source="Pico Idle Dance0002" length="2"/>
+		<frame source="Pico Idle Dance0004" length="1"/>
+		<frame source="Pico Idle Dance0005" length="1"/>
+		<frame source="Pico Idle Dance0006" length="1"/>
+		<frame source="Pico Idle Dance0007" length="1"/>
+		<frame source="Pico Idle Dance0008" length="1"/>
+		<end/>
+	</anim>
+
+	<!-- SingLeft -->
+	<frame source="Pico Note Right0000" flip="1" ax="148" ay="422" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Pico Note Right0002" flip="1" ax="148" ay="422" tx="320" ty="256" cx="0" cy="481"/>
+
+	<anim>
+		<frame source="Pico Note Right0000" length="2"/>
+		<frame source="Pico Note Right0002" length="2"/>
+		<end/>
+	</anim>
+</chr>

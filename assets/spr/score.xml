@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="score.png">
+	<!-- i made this one by hand too hehe -->
+	<SubTexture name="score" x="0" y="0" width="34" height="9"/>
+	<SubTexture name="0" x="0" y="16" width="7" height="9"/>
+	<SubTexture name="1" x="8" y="16" width="7" height="9"/>
+	<SubTexture name="2" x="16" y="16" width="7" height="9"/>
+	<SubTexture name="3" x="24" y="16" width="7" height="9"/>
+	<SubTexture name="4" x="32" y="16" width="7" height="9"/>
+	<SubTexture name="5" x="40" y="16" width="7" height="9"/>
+	<SubTexture name="6" x="48" y="16" width="7" height="9"/>
+	<SubTexture name="7" x="56" y="16" width="7" height="9"/>
+	<SubTexture name="8" x="64" y="16" width="7" height="9"/>
+	<SubTexture name="9" x="72" y="16" width="7" height="9"/>
+	<SubTexture name="-" x="80" y="16" width="7" height="9"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+[submodule "CKSDK"]
+	path = CKSDK
+	url = https://github.com/cuckydev/CKSDK
+[submodule "tools/lib/libimagequant"]
+	path = tools/lib/libimagequant
+	url = https://github.com/cuckydev/libimagequant
+	branch = 2.x
+[submodule "tools/lib/mkpsxiso"]
+	path = tools/lib/mkpsxiso
+	url = https://github.com/Lameguy64/mkpsxiso

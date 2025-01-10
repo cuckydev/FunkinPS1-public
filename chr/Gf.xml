@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chr sheet="../assets/chr/GF_assets.xml" compress="0" highbpp="1" dither="0" semi="0" singleclut="1" scale="0.25">
+	<!-- DanceLeft [0 - 9] -->
+	<frame source="GF Dancing Beat0000" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0001" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0002" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0003" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0004" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0005" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0006" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0007" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0010" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0013" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+
+	<anim>
+		<frame source="GF Dancing Beat0000" length="1"/>
+		<frame source="GF Dancing Beat0001" length="1"/>
+		<frame source="GF Dancing Beat0002" length="1"/>
+		<frame source="GF Dancing Beat0003" length="1"/>
+		<frame source="GF Dancing Beat0004" length="1"/>
+		<frame source="GF Dancing Beat0005" length="1"/>
+		<frame source="GF Dancing Beat0006" length="1"/>
+		<frame source="GF Dancing Beat0007" length="3"/>
+		<frame source="GF Dancing Beat0010" length="3"/>
+		<frame source="GF Dancing Beat0013" length="3"/>
+		<end/>
+	</anim>
+	
+	<!-- DanceRight [10 - 19] -->
+	<frame source="GF Dancing Beat0015" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0016" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0017" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0018" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0019" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0020" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0021" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0022" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0025" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+	<frame source="GF Dancing Beat0028" flip="0" ax="357" ay="647" tx="448" ty="0" cx="0" cy="482"/>
+
+	<anim>
+		<frame source="GF Dancing Beat0015" length="1"/>
+		<frame source="GF Dancing Beat0016" length="1"/>
+		<frame source="GF Dancing Beat0017" length="1"/>
+		<frame source="GF Dancing Beat0018" length="1"/>
+		<frame source="GF Dancing Beat0019" length="1"/>
+		<frame source="GF Dancing Beat0020" length="1"/>
+		<frame source="GF Dancing Beat0021" length="1"/>
+		<frame source="GF Dancing Beat0022" length="3"/>
+		<frame source="GF Dancing Beat0025" length="3"/>
+		<frame source="GF Dancing Beat0028" length="3"/>
+		<end/>
+	</anim>
+</chr>

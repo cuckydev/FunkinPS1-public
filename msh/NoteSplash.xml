@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chr sheet="../assets/msh/noteSplashes.xml" compress="1" highbpp="0" dither="0" semi="0" singleclut="0" scale="0.2">
+	<!-- Left 1 -->
+	<frame source="note impact 1 purple0000" flip="0" ax="135" ay="150" tx="898" ty="0" cx="64" cy="509"/>
+	<frame source="note impact 1 purple0001" flip="0" ax="135" ay="150" tx="909" ty="0" cx="80" cy="509"/>
+	<frame source="note impact 1 purple0002" flip="0" ax="135" ay="150" tx="921" ty="0" cx="96" cy="509"/>
+	<frame source="note impact 1 purple0003" flip="0" ax="135" ay="150" tx="935" ty="0" cx="112" cy="509"/>
+	
+	<!-- Down 1 -->
+	<frame source="note impact 1  blue0000" flip="0" ax="135" ay="150" tx="949" ty="0" cx="128" cy="509"/>
+	<frame source="note impact 1  blue0001" flip="0" ax="135" ay="150" tx="897" ty="54" cx="144" cy="509"/>
+	<frame source="note impact 1  blue0002" flip="0" ax="135" ay="150" tx="909" ty="59" cx="160" cy="509"/>
+	<frame source="note impact 1  blue0003" flip="0" ax="135" ay="150" tx="923" ty="60" cx="176" cy="509"/>
+	
+	<!-- Up 1 -->
+	<frame source="note impact 1 green0000" flip="0" ax="135" ay="150" tx="937" ty="60" cx="192" cy="509"/>
+	<frame source="note impact 1 green0001" flip="0" ax="135" ay="150" tx="948" ty="60" cx="208" cy="509"/>
+	<frame source="note impact 1 green0002" flip="0" ax="135" ay="150" tx="896" ty="107" cx="224" cy="509"/>
+	<frame source="note impact 1 green0003" flip="0" ax="135" ay="150" tx="910" ty="118" cx="240" cy="509"/>
+	
+	<!-- Right 1 -->
+	<frame source="note impact 1 red0000" flip="0" ax="135" ay="150" tx="924" ty="120" cx="0" cy="508"/>
+	<frame source="note impact 1 red0001" flip="0" ax="135" ay="150" tx="934" ty="120" cx="16" cy="508"/>
+	<frame source="note impact 1 red0002" flip="0" ax="135" ay="150" tx="946" ty="114" cx="32" cy="508"/>
+	<frame source="note impact 1 red0003" flip="0" ax="135" ay="150" tx="896" ty="166" cx="48" cy="508"/>
+	
+	<!-- Left 2 -->
+	<frame source="note impact 2 purple0000" flip="0" ax="137" ay="150" tx="910" ty="178" cx="64" cy="508"/>
+	<frame source="note impact 2 purple0001" flip="0" ax="137" ay="150" tx="921" ty="178" cx="80" cy="508"/>
+	<frame source="note impact 2 purple0002" flip="0" ax="137" ay="150" tx="935" ty="173" cx="96" cy="508"/>
+	<frame source="note impact 2 purple0003" flip="0" ax="137" ay="150" tx="960" ty="257" cx="112" cy="508"/>
+	
+	<!-- Down 2 -->
+	<frame source="note impact 2 blue0000" flip="0" ax="137" ay="150" tx="950" ty="173" cx="128" cy="508"/>
+	<frame source="note impact 2 blue0001" flip="0" ax="137" ay="150" tx="972" ty="257" cx="144" cy="508"/>
+	<frame source="note impact 2 blue0002" flip="0" ax="137" ay="150" tx="984" ty="257" cx="160" cy="508"/>
+	<frame source="note impact 2 blue0003" flip="0" ax="137" ay="150" tx="998" ty="257" cx="176" cy="508"/>
+	
+	<!-- Up 2 -->
+	<frame source="note impact 2 green0000" flip="0" ax="137" ay="150" tx="950" ty="214" cx="192" cy="508"/>
+	<frame source="note impact 2 green0001" flip="0" ax="137" ay="150" tx="960" ty="310" cx="208" cy="508"/>
+	<frame source="note impact 2 green0002" flip="0" ax="137" ay="150" tx="1010" ty="257" cx="224" cy="508"/>
+	<frame source="note impact 2 green0003" flip="0" ax="137" ay="150" tx="972" ty="306" cx="240" cy="508"/>
+	
+	<!-- Right 2 -->
+	<frame source="note impact 2 red0000" flip="0" ax="137" ay="150" tx="1014" ty="214" cx="0" cy="507"/>
+	<frame source="note impact 2 red0001" flip="0" ax="137" ay="150" tx="984" ty="310" cx="16" cy="507"/>
+	<frame source="note impact 2 red0002" flip="0" ax="137" ay="150" tx="1009" ty="310" cx="32" cy="507"/>
+	<frame source="note impact 2 red0003" flip="0" ax="137" ay="150" tx="996" ty="310" cx="48" cy="507"/>
+	
+	<!-- Impact 1 -->
+	<anim>
+		<frame source="note impact 1 purple0000" length="1"/>
+		<frame source="note impact 1 purple0001" length="1"/>
+		<frame source="note impact 1 purple0002" length="1"/>
+		<frame source="note impact 1 purple0003" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="note impact 1  blue0000" length="1"/>
+		<frame source="note impact 1  blue0001" length="1"/>
+		<frame source="note impact 1  blue0002" length="1"/>
+		<frame source="note impact 1  blue0003" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="note impact 1 green0000" length="1"/>
+		<frame source="note impact 1 green0001" length="1"/>
+		<frame source="note impact 1 green0002" length="1"/>
+		<frame source="note impact 1 green0003" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="note impact 1 red0000" length="1"/>
+		<frame source="note impact 1 red0001" length="1"/>
+		<frame source="note impact 1 red0002" length="1"/>
+		<frame source="note impact 1 red0003" length="1"/>
+		<end/>
+	</anim>
+	
+	<!-- Impact 2 -->
+	<anim>
+		<frame source="note impact 2 purple0000" length="1"/>
+		<frame source="note impact 2 purple0001" length="1"/>
+		<frame source="note impact 2 purple0002" length="1"/>
+		<frame source="note impact 2 purple0003" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="note impact 2 blue0000" length="1"/>
+		<frame source="note impact 2 blue0001" length="1"/>
+		<frame source="note impact 2 blue0002" length="1"/>
+		<frame source="note impact 2 blue0003" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="note impact 2 green0000" length="1"/>
+		<frame source="note impact 2 green0001" length="1"/>
+		<frame source="note impact 2 green0002" length="1"/>
+		<frame source="note impact 2 green0003" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="note impact 2 red0000" length="1"/>
+		<frame source="note impact 2 red0001" length="1"/>
+		<frame source="note impact 2 red0002" length="1"/>
+		<frame source="note impact 2 red0003" length="1"/>
+		<end/>
+	</anim>
+</chr>

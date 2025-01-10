@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chr sheet="../assets/msh/combo.xml" compress="1" highbpp="0" dither="0" semi="0" singleclut="1" scale="0.35">
+	<!-- Numbers -->
+	<frame source="0 small instance 10000" flip="0" ax="25" ay="0" tx="970" ty="463" cx="0" cy="506"/>
+	<frame source="1 small instance 10000" flip="0" ax="25" ay="0" tx="1005" ty="461" cx="0" cy="506"/>
+	<frame source="2 small instance 10000" flip="0" ax="25" ay="0" tx="975" ty="463" cx="0" cy="506"/>
+	<frame source="3 small instance 10000" flip="0" ax="25" ay="0" tx="985" ty="463" cx="0" cy="506"/>
+	<frame source="4 small instance 10000" flip="0" ax="25" ay="0" tx="980" ty="464" cx="0" cy="506"/>
+	<frame source="5 small instance 10000" flip="0" ax="25" ay="0" tx="995" ty="464" cx="0" cy="506"/>
+	<frame source="6 small instance 10000" flip="0" ax="25" ay="0" tx="1000" ty="464" cx="0" cy="506"/>
+	<frame source="7 small instance 10000" flip="0" ax="25" ay="0" tx="990" ty="464" cx="0" cy="506"/>
+	<frame source="8 small instance 10000" flip="0" ax="25" ay="0" tx="963" ty="476" cx="0" cy="506"/>
+	<frame source="9 small instance 10000" flip="0" ax="25" ay="0" tx="963" ty="494" cx="0" cy="506"/>
+	
+	<!-- Judgement -->
+	<frame source="SICK og instance 10000" flip="0" ax="114" ay="0" tx="968" ty="480" cx="0" cy="506"/>
+	<frame source="GOOD og instance 10000" flip="0" ax="98" ay="0" tx="989" ty="482" cx="0" cy="506"/>
+	<frame source="BAD og instance 10000" flip="0" ax="72" ay="0" tx="1010" ty="445" cx="0" cy="506"/>
+	<frame source="SHIT og instance 10000" flip="0" ax="85" ay="0" tx="1008" ty="478" cx="0" cy="506"/>
+</chr>

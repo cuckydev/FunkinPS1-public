@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chr sheet="../assets/chr/loader.xml" compress="1" highbpp="1" dither="0" semi="0" singleclut="0" scale="1">
+	<frame source="loader" flip="0" ax="144" ay="112" tx="0" ty="240" cx="0" cy="479"/>
+</chr>

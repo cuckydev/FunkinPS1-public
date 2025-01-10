@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chr sheet="../assets/chr/DADDY_DEAREST.xml" compress="0" highbpp="1" dither="0" semi="0" singleclut="1" scale="0.25">
+	<!-- Idle -->
+	<frame source="Dad idle dance0002" flip="0" ax="166" ay="730" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Dad idle dance0004" flip="0" ax="166" ay="730" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Dad idle dance0006" flip="0" ax="166" ay="730" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Dad idle dance0008" flip="0" ax="166" ay="730" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Dad idle dance0010" flip="0" ax="166" ay="730" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Dad idle dance0012" flip="0" ax="166" ay="730" tx="320" ty="256" cx="0" cy="481"/>
+
+	<anim>
+		<frame source="Dad idle dance0002" length="2"/>
+		<frame source="Dad idle dance0004" length="2"/>
+		<frame source="Dad idle dance0006" length="2"/>
+		<frame source="Dad idle dance0008" length="2"/>
+		<frame source="Dad idle dance0010" length="2"/>
+		<frame source="Dad idle dance0012" length="2"/>
+		<end/>
+	</anim>
+
+	<!-- SingLeft -->
+	<frame source="dad sing note right0000" flip="0" ax="160" ay="740" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="dad sing note right0002" flip="0" ax="160" ay="740" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="dad sing note right0004" flip="0" ax="160" ay="740" tx="320" ty="256" cx="0" cy="481"/>
+
+	<anim>
+		<frame source="dad sing note right0000" length="2"/>
+		<frame source="dad sing note right0002" length="2"/>
+		<frame source="dad sing note right0004" length="2"/>
+		<back length="2"/>
+	</anim>
+
+	<!-- SingDown -->
+	<frame source="Dad Sing Note DOWN0000" flip="0" ax="167" ay="700" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Dad Sing Note DOWN0002" flip="0" ax="167" ay="700" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Dad Sing Note DOWN0004" flip="0" ax="167" ay="700" tx="320" ty="256" cx="0" cy="481"/>
+
+	<anim>
+		<frame source="Dad Sing Note DOWN0000" length="2"/>
+		<frame source="Dad Sing Note DOWN0002" length="2"/>
+		<frame source="Dad Sing Note DOWN0004" length="2"/>
+		<back length="2"/>
+	</anim>
+
+	<!-- SingUp -->
+	<frame source="Dad Sing note UP0000" flip="0" ax="157" ay="782" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Dad Sing note UP0002" flip="0" ax="157" ay="782" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Dad Sing note UP0004" flip="0" ax="157" ay="782" tx="320" ty="256" cx="0" cy="481"/>
+
+	<anim>
+		<frame source="Dad Sing note UP0000" length="2"/>
+		<frame source="Dad Sing note UP0002" length="2"/>
+		<frame source="Dad Sing note UP0004" length="2"/>
+		<back length="2"/>
+	</anim>
+
+	<!-- SingRight -->
+	<frame source="Dad Sing Note LEFT0000" flip="0" ax="156" ay="757" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Dad Sing Note LEFT0002" flip="0" ax="156" ay="757" tx="320" ty="256" cx="0" cy="481"/>
+	<frame source="Dad Sing Note LEFT0004" flip="0" ax="156" ay="757" tx="320" ty="256" cx="0" cy="481"/>
+
+	<anim>
+		<frame source="Dad Sing Note LEFT0000" length="2"/>
+		<frame source="Dad Sing Note LEFT0002" length="2"/>
+		<frame source="Dad Sing Note LEFT0004" length="2"/>
+		<back length="2"/>
+	</anim>
+</chr>

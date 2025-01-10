@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chr sheet="../../assets/msh/week1/stagefront.xml" compress="1" highbpp="0" dither="0" semi="0" singleclut="1" scale="0.25">
+	<frame source="stagefront" flip="0" ax="824" ay="0" tx="792" ty="437" cx="32" cy="484"/>
+</chr>

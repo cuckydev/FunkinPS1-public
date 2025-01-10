@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="combo.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="0 small instance 10000" x="153" y="96" width="42" height="45"/>
+	<SubTexture name="1 small instance 10000" x="198" y="187" width="39" height="45"/>
+	<SubTexture name="2 small instance 10000" x="457" y="105" width="42" height="45"/>
+	<SubTexture name="3 small instance 10000" x="411" y="105" width="42" height="45"/>
+	<SubTexture name="4 small instance 10000" x="241" y="187" width="40" height="42"/>
+	<SubTexture name="5 small instance 10000" x="437" y="4" width="43" height="46"/>
+	<SubTexture name="6 small instance 10000" x="153" y="145" width="41" height="46"/>
+	<SubTexture name="7 small instance 10000" x="437" y="54" width="42" height="47"/>
+	<SubTexture name="8 small instance 10000" x="456" y="154" width="41" height="44"/>
+	<SubTexture name="9 small instance 10000" x="411" y="154" width="41" height="46"/>
+	<SubTexture name="BAD og instance 10000" x="4" y="96" width="145" height="90"/>
+	<SubTexture name="GOOD og instance 10000" x="236" y="4" width="197" height="82"/>
+	<SubTexture name="SHIT og instance 10000" x="236" y="90" width="171" height="93"/>
+	<SubTexture name="SICK og instance 10000" x="4" y="4" width="228" height="88"/>
+</TextureAtlas>

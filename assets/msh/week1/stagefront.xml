@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stagefront.png">
+	<!-- Created by hand because I cant find the fla file :( -->
+	<SubTexture name="stagefront" x="436" y="38" width="1648" height="296"/>
+</TextureAtlas>

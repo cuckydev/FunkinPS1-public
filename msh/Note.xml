@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chr sheet="../assets/msh/NOTE_assets.xml" compress="1" highbpp="0" dither="1" semi="0" singleclut="0" scale="0.22">
+	<!-- Static LDUR -->
+	<frame source="arrow static instance 10000" flip="0" ax="77" ay="77" tx="960" ty="0" cx="0" cy="511"/>
+	<frame source="arrow static instance 20000" flip="0" ax="77" ay="77" tx="969" ty="0" cx="16" cy="511"/>
+	<frame source="arrow static instance 40000" flip="0" ax="77" ay="77" tx="978" ty="0" cx="32" cy="511"/>
+	<frame source="arrow static instance 30000" flip="0" ax="77" ay="77" tx="987" ty="0" cx="48" cy="511"/>
+
+	<!-- Left Confirm -->
+	<frame source="left confirm instance 10000" flip="0" ax="114" ay="112" tx="960" ty="35" cx="64" cy="511"/>
+	<frame source="left confirm instance 10001" flip="0" ax="114" ay="112" tx="960" ty="87" cx="80" cy="511"/>
+	<frame source="left confirm instance 10002" flip="0" ax="114" ay="112" tx="960" ty="136" cx="96" cy="511"/>
+	<!-- Left Press -->
+	<frame source="left press instance 10000" flip="0" ax="73" ay="72" tx="1015" ty="69" cx="112" cy="511"/>
+	<frame source="left press instance 10002" flip="0" ax="73" ay="72" tx="960" ty="187" cx="128" cy="511"/>
+	<!-- Left -->
+	<frame source="purple instance 10000" flip="0" ax="77" ay="77" tx="996" ty="0" cx="144" cy="511"/>
+	<frame source="purple hold piece instance 10000" flip="0" ax="25" ay="0" tx="996" ty="189" cx="160" cy="511"/>
+	<frame source="pruple end hold instance 10000" flip="0" ax="25" ay="0" tx="996" ty="201" cx="176" cy="511"/>
+
+	<!-- Down Confirm -->
+	<frame source="down confirm instance 10000" flip="0" ax="114" ay="114" tx="973" ty="35" cx="192" cy="511"/>
+	<frame source="down confirm instance 10001" flip="0" ax="114" ay="114" tx="973" ty="87" cx="208" cy="511"/>
+	<frame source="down confirm instance 10002" flip="0" ax="114" ay="114" tx="973" ty="139" cx="224" cy="511"/>
+	<!-- Down Press -->
+	<frame source="down press instance 10000" flip="0" ax="73" ay="70" tx="969" ty="187" cx="240" cy="511"/>
+	<frame source="down press instance 10002" flip="0" ax="73" ay="70" tx="977" ty="187" cx="0" cy="510"/>
+	<!-- Down -->
+	<frame source="blue instance 10000" flip="0" ax="77" ay="77" tx="1005" ty="0" cx="16" cy="510"/>
+	<frame source="blue hold piece instance 10000" flip="0" ax="25" ay="0" tx="1000" ty="189" cx="32" cy="510"/>
+	<frame source="blue hold end instance 10000" flip="0" ax="25" ay="0" tx="1000" ty="201" cx="48" cy="510"/>
+
+	<!-- Up Confirm -->
+	<frame source="up confirm instance 10000" flip="0" ax="122" ay="116" tx="987" ty="35" cx="64" cy="510"/>
+	<frame source="up confirm instance 10001" flip="0" ax="122" ay="116" tx="987" ty="87" cx="80" cy="510"/>
+	<frame source="up confirm instance 10002" flip="0" ax="122" ay="116" tx="986" ty="139" cx="96" cy="510"/>
+	<!-- Up Press -->
+	<frame source="up press instance 10000" flip="0" ax="78" ay="76" tx="1015" ty="167" cx="112" cy="510"/>
+	<frame source="up press instance 10002" flip="0" ax="78" ay="76" tx="1015" ty="101" cx="128" cy="510"/>
+	<!-- Up -->
+	<frame source="green instance 10000" flip="0" ax="77" ay="77" tx="1014" ty="0" cx="144" cy="510"/>
+	<frame source="green hold piece instance 10000" flip="0" ax="25" ay="0" tx="1004" ty="189" cx="160" cy="510"/>
+	<frame source="green hold end instance 10000" flip="0" ax="25" ay="0" tx="1004" ty="201" cx="176" cy="510"/>
+
+	<!-- Right Confirm -->
+	<frame source="right confirm instance 10000" flip="0" ax="110" ay="116" tx="1001" ty="35" cx="192" cy="510"/>
+	<frame source="right confirm instance 10001" flip="0" ax="110" ay="116" tx="1001" ty="86" cx="208" cy="510"/>
+	<frame source="right confirm instance 10002" flip="0" ax="110" ay="116" tx="1001" ty="137" cx="224" cy="510"/>
+	<!-- Right Press -->
+	<frame source="right press instance 10000" flip="0" ax="72" ay="78" tx="1015" ty="135" cx="240" cy="510"/>
+	<frame source="right press instance 10002" flip="0" ax="72" ay="78" tx="986" ty="186" cx="0" cy="509"/>
+	<!-- Right -->
+	<frame source="red instance 10000" flip="0" ax="77" ay="77" tx="1014" ty="34" cx="16" cy="509"/>
+	<frame source="red hold piece instance 10000" flip="0" ax="25" ay="0" tx="1008" ty="189" cx="32" cy="509"/>
+	<frame source="red hold end instance 10000" flip="0" ax="25" ay="0" tx="1008" ty="201" cx="48" cy="509"/>
+	
+	<!-- Static -->
+	<anim>
+		<frame source="arrow static instance 10000" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="arrow static instance 20000" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="arrow static instance 40000" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="arrow static instance 30000" length="1"/>
+		<end/>
+	</anim>
+	
+	<!-- Confirm -->
+	<anim>
+		<frame source="left confirm instance 10000" length="1"/>
+		<frame source="left confirm instance 10001" length="1"/>
+		<frame source="left confirm instance 10002" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="down confirm instance 10000" length="1"/>
+		<frame source="down confirm instance 10001" length="1"/>
+		<frame source="down confirm instance 10002" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="up confirm instance 10000" length="1"/>
+		<frame source="up confirm instance 10001" length="1"/>
+		<frame source="up confirm instance 10002" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="right confirm instance 10000" length="1"/>
+		<frame source="right confirm instance 10001" length="1"/>
+		<frame source="right confirm instance 10002" length="1"/>
+		<end/>
+	</anim>
+	
+	<!-- Press -->
+	<anim>
+		<frame source="left press instance 10000" length="2"/>
+		<frame source="left press instance 10002" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="down press instance 10000" length="2"/>
+		<frame source="down press instance 10002" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="up press instance 10000" length="2"/>
+		<frame source="up press instance 10002" length="1"/>
+		<end/>
+	</anim>
+	<anim>
+		<frame source="right press instance 10000" length="2"/>
+		<frame source="right press instance 10002" length="1"/>
+		<end/>
+	</anim>
+	
+	<!-- Notes -->
+	<anim>
+		<frame source="purple instance 10000" length="1"/>
+		<frame source="purple hold piece instance 10000" length="1"/>
+		<frame source="pruple end hold instance 10000" length="1"/>
+	</anim>
+	<anim>
+		<frame source="blue instance 10000" length="1"/>
+		<frame source="blue hold piece instance 10000" length="1"/>
+		<frame source="blue hold end instance 10000" length="1"/>
+	</anim>
+	<anim>
+		<frame source="green instance 10000" length="1"/>
+		<frame source="green hold piece instance 10000" length="1"/>
+		<frame source="green hold end instance 10000" length="1"/>
+	</anim>
+	<anim>
+		<frame source="red instance 10000" length="1"/>
+		<frame source="red hold piece instance 10000" length="1"/>
+		<frame source="red hold end instance 10000" length="1"/>
+	</anim>
+</chr>

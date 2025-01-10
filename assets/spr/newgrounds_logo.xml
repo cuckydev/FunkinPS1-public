@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newgrounds_logo.png">
+	<SubTexture name="logo" x="0" y="0" width="362" height="350"/>
+</TextureAtlas>

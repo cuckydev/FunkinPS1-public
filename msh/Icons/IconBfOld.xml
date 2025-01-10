@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chr sheet="../../assets/msh/icons/icon-bf-old.xml" compress="1" highbpp="0" dither="0" semi="0" singleclut="1" scale="0.28">
+	<frame source="healthy" flip="1" ax="122" ay="75" tx="988" ty="402" cx="32" cy="506"/>
+	<frame source="dead" flip="1" ax="115" ay="75" tx="976" ty="402" cx="32" cy="506"/>
+</chr>

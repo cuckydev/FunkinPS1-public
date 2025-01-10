@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spr sheet="../assets/spr/menuDesat.xml" compress="1" highbpp="0" dither="0" semi="0" singleclut="1" scale="1">
+	<frame source="menuDesat" flip="0" ax="0" ay="0" tx="512" ty="0" cx="16" cy="510"/>
+</spr>
